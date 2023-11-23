@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>start_recording.png</file>
+    <file>stop_recording.png</file>
+  </qresource>
+</RCC>
